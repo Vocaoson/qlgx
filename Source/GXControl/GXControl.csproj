@@ -124,6 +124,12 @@
       <DependentUpon>frmXemGiaDinhGiaoDan.cs</DependentUpon>
     </Compile>
     <Compile Include="GenerateDotBiTichProcess.cs" />
+    <Compile Include="GxExtract.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GxExtract.Designer.cs">
+      <DependentUpon>GxExtract.cs</DependentUpon>
+    </Compile>
     <Compile Include="GxGiaDinhImportList.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -482,6 +488,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmXemGiaDinhGiaoDan.resx">
       <DependentUpon>frmXemGiaDinhGiaoDan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GxExtract.resx">
+      <DependentUpon>GxExtract.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GxGiaDinhImportList.resx">
       <DependentUpon>GxGiaDinhImportList.cs</DependentUpon>

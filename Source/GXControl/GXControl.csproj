@@ -93,6 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ExportDataToExcel.cs" />
+    <Compile Include="Extract.cs" />
     <Compile Include="frmAvatar.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -1106,7 +1106,7 @@ namespace GxGlobal
         }
         public void Replace(object findWhat, object replaceWith)
         {
-            Replace(findWhat, replaceWith, "");
+            Replace(findWhat, replaceWith, "...................................");
         }
 
         public void Replace(object findWhat, object replaceWith, object defaultValue)

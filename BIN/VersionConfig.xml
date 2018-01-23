@@ -12,12 +12,13 @@
           + Danh sách cao niên
           + Danh sách giới trẻ
           + Danh sách thiếu nhi
+          + Danh sách gia đình theo từn tình trạng hôn phối
      -Cập nhật tính năng : quản lý tài khoản người dùng,bảo mật
      -Bổ xung cho chức năng "Giới thiệu hôn phối" => khi làm giấy giới thiệu hôn phối,đối tượng được giới thiệu sẽ trở thành một 
      thành viên mới của giáo xứ
     </info>
     <downloadpath value="download.asp?opt=update">http://quanlygiaoxu.net/</downloadpath>
-    <dateupdate>2016.04.09</dateupdate>
+    <dateupdate>2018-01-23</dateupdate>
     <size>6.28</size>
   </version-info>
 </application>

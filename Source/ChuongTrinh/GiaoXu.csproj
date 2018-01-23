@@ -106,11 +106,35 @@
     <Compile Include="AddNewFeature\frmExtract.Designer.cs">
       <DependentUpon>frmExtract.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmChangePass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangePass.Designer.cs">
+      <DependentUpon>frmChangePass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccoutList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAccoutList.Designer.cs">
+      <DependentUpon>frmAccoutList.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmBieuDo.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmBieuDo.Designer.cs">
       <DependentUpon>frmBieuDo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmResetPWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResetPWord.Designer.cs">
+      <DependentUpon>frmResetPWord.cs</DependentUpon>
     </Compile>
     <Compile Include="frmShowUpdateInfo.cs">
       <SubType>Form</SubType>
@@ -282,6 +306,12 @@
     <EmbeddedResource Include="AddNewFeature\frmExtract.resx">
       <DependentUpon>frmExtract.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmChangePass.resx">
+      <DependentUpon>frmChangePass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAccoutList.resx">
+      <DependentUpon>frmAccoutList.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmGopY.resx">
       <SubType>Designer</SubType>
       <DependentUpon>frmGopY.cs</DependentUpon>
@@ -293,6 +323,12 @@
     <EmbeddedResource Include="frmKiemTraGiaoDanList.resx">
       <DependentUpon>frmKiemTraGiaoDanList.cs</DependentUpon>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResetPWord.resx">
+      <DependentUpon>frmResetPWord.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTimGiaoDan.resx">
       <DependentUpon>frmTimGiaoDan.cs</DependentUpon>

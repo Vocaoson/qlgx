@@ -150,6 +150,12 @@
       <DependentUpon>GxDanToc.cs</DependentUpon>
     </Compile>
     <Compile Include="GxKiemTraThongBao.cs" />
+    <Compile Include="GxListAccout.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GxListAccout.Designer.cs">
+      <DependentUpon>GxListAccout.cs</DependentUpon>
+    </Compile>
     <Compile Include="GxPictureField.cs">
       <SubType>UserControl</SubType>
     </Compile>
